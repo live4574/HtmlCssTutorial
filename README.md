@@ -1,3 +1,3 @@
 # HTML , CSS Tutorial 
 
-HTML/CSS 연습
+HTML/CSS tutorial
